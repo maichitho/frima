@@ -1,0 +1,8 @@
+{
+  "name": "frima",
+  "app_id": "843021de",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
